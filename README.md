@@ -31,4 +31,6 @@ Okay, so this kinda sucks. All of a sudden I'm getting "Steam Support suspects y
 
 "
 
+![Proof](https://github.com/BetweenReality/comp_map_fallback/blob/main/proof.png?raw=true)
+
 Also yeah I know that there are some security vulnerabilities on my end if i'm even getting that message. I *thought* I fixed that, but apparently Steam decided to screw me over an hour before the deadline.
