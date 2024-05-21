@@ -9,3 +9,5 @@ Okay, so this kinda sucks. All of a sudden I'm getting "Steam Support suspects y
 "
 
 I'll upload it to steam as soon as possible.
+
+Also yeah I know that there are some security vulnerabilities on my end if i'm even getting that message. I *thought* I fixed that, but apparently Dteam decided to screw me over an hour before the deadline.
