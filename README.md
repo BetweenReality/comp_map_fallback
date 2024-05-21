@@ -1,4 +1,4 @@
-Steam screwed my account so I have to upload this here. Check the discord competition channel for a message with more details. I'll upload it to steam as soon as possible.
+Steam screwed my account so I have to upload this here. Check the discord competition channel for a message with more details. I'll upload it to steam as soon as possible. For now though, just put the map in the maps folder and load it manually using the console.
 
 The actual map description is this:
 
