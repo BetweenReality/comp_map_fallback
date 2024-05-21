@@ -1,4 +1,5 @@
 Steam screwed my account so I have to upload this here. Check the discord competition channel for a message with more details.
+
 The actual map description is this:
 
 ```
@@ -19,7 +20,10 @@ Okay, so, this map is not complete to how I would have liked it. I decided it wa
  - Some other stuff I forgot (I am still on a time limit as I write this)
 ```
 
-Actually, here is just the whole message quoted:
+
+
+
+Actually, here is just the whole discord message quoted:
 
 "
 
