@@ -1,4 +1,5 @@
 EDIT: This file is obsolete. Technically it is still the competition version of the map, but the initial version of the workshop map is identical. I will only update the map there at this point.
+
 https://steamcommunity.com/sharedfiles/filedetails/?id=3252271329
 
 
