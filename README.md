@@ -1,3 +1,10 @@
+EDIT: This file is obsolete. Technically it is still the competition version of the map, but the initial version of the workshop map is identical. I will only update the map there at this point.
+https://steamcommunity.com/sharedfiles/filedetails/?id=3252271329
+
+
+## Old. Stop reading.
+#### (Or don't. It's all the same to me. All a part of the joke. And believe me, I will be laughing at every second of your inevitable life, from the moment we fade in until the moment I say: Happily Ever-)
+
 Steam screwed my account so I have to upload this here. Check the discord competition channel for a message with more details. I'll upload it to steam as soon as possible. For now though, just put the map in the maps folder and load it manually using the console.
 
 The actual map description is this:
